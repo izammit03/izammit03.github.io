@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: WMD25V (BF20) CNC Conversion
+description: Completely re-doing a machine that was already converted to CNC previously. Also involving plenty of upgrades down the line.
+img: assets/img/proj_1-1.png
+redirect: https://hackaday.io/project/196488-wmd25v-bf20-cnc-conversion
 importance: 1
 category: work
 related_publications: true
